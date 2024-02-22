@@ -1,4 +1,4 @@
-package ecs
+package secs
 
 AddComponents1 :: proc(world: ^World, entity: Entity, component: $C) {
 	AddComponent(world, entity, component)

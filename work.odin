@@ -1,4 +1,4 @@
-package ecs
+package secs
 
 Work1 :: proc(world: ^World, p: proc(_: Entity, _: ^$C)) {
 	components := cast(^[dynamic]Container(C))world.components[typeid_of(C)]

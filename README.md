@@ -1,4 +1,5 @@
-# Small unoptimized ECS implementation in odin
+# SECS (SmallECS)
+SECS is a small ecs implemented in odin
 
 ## Usage
 

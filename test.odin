@@ -1,4 +1,4 @@
-package ecs
+package secs
 
 import "core:fmt"
 
